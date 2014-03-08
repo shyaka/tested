@@ -1,4 +1,5 @@
 #!/bin/bash
+##script
 funarg=$#;
 listnames=$@;
 echo $@;
