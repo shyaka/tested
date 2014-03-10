@@ -6,5 +6,5 @@ for noarguments in "$@";
 do
 echo "$noarguments"
 done 
-echo "$anynames" > names.txt
+echo "$anynames" >> names.txt
 echo "$# names have been added"
